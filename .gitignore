@@ -50,6 +50,10 @@ dist/
 .env.local
 .env.*.local
 
+# allow env template
+!.env.example
+
+
 # backups
 backups/
 
